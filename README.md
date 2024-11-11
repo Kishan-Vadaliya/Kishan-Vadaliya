@@ -13,7 +13,7 @@ Eager to Contribute: I’m working on improving my problem-solving skills and co
 JavaScript (ES6+, async/await, closures, etc.)
 React.js (Functional components, hooks, and state management)
 Node.js (Express, backend development, building APIs)
-Databases: MongoDB, understanding NoSQL vs SQL
+Databases: MongoDB,SQL
 Version Control: Git, GitHub workflows, collaboration through pull requests
 
 🔧 Tools I’m Using:
