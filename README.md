@@ -80,7 +80,7 @@
   <a href="https://www.linkedin.com/in/vadaliyakishan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[https://www.paypal.me/EkVillain2212](https://www.paypal.com/paypalme/EkVillain2212)" target="_blank">
+  <a href="https://www.paypal.com/paypalme/EkVillain2212" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="paypal logo"  />
   </a>
 </div>
