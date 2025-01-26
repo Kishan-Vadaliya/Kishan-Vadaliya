@@ -74,13 +74,13 @@
 ###
 
 <div align="center">
-  <a href="work.vadaliyakishan@gmail.com" target="_blank">
+  <a href="mailto:work.vadaliyakishan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vadaliyakishan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="paypal.me/EkVillain2212" target="_blank">
+  <a href="[https://www.paypal.me/EkVillain2212](https://www.paypal.com/paypalme/EkVillain2212)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="paypal logo"  />
   </a>
 </div>
