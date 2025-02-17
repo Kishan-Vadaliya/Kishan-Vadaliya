@@ -91,11 +91,15 @@
 
 ###
 
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Kishan-Vadaliya/count.svg?"  />
 </div>
 
 ###
+<div align="center"> 
+  <h2>✍️ Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes">
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
